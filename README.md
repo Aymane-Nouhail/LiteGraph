@@ -2,7 +2,9 @@
 
 A minimal, production-ready AI workflow framework with graph orchestration and ReAct agents.
 
-<img width="512" height="512" alt="LiteGraph Logo" src="https://github.com/user-attachments/assets/7af3d32a-4741-4b1e-aefe-d2bb47690c3e" />
+<p align="center">
+  <img width="240" alt="LiteGraph Logo" src="https://github.com/user-attachments/assets/7af3d32a-4741-4b1e-aefe-d2bb47690c3e" />
+</p>
 
 
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
