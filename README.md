@@ -2,6 +2,9 @@
 
 A minimal, production-ready AI workflow framework with graph orchestration and ReAct agents.
 
+<img width="1024" height="1024" alt="ChatGPT Image Aug 2, 2025, 02_56_56 PM" src="https://github.com/user-attachments/assets/7af3d32a-4741-4b1e-aefe-d2bb47690c3e" />
+
+
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
