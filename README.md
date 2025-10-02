@@ -3,8 +3,8 @@
 A minimal, production-ready AI workflow framework with graph orchestration and ReAct agents.
 
 <p align="center">
-  <img width="500" height="500" alt="LiteGraph_logo" src="https://github.com/user-attachments/assets/dea73e36-7823-4a57-8b2e-72e9b06eb826" />
-</p><
+  <img width="250" height="250" alt="LiteGraph_logo" src="https://github.com/user-attachments/assets/dea73e36-7823-4a57-8b2e-72e9b06eb826" />
+</p>
 
 
 
